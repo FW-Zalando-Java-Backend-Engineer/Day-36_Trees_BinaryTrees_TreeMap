@@ -162,12 +162,40 @@ assertEquals(List.of("Alpha", "Gamma", "Zeta"), tree.listInOrder());
 
 ---
 
-## 📬 Submission Instructions
+Great choice — **Edabit** is a solid platform for practicing Java data structure problems in a beginner-friendly environment.
 
-1. Fork the base repo (if provided)
-2. Implement the features
-3. Push code to your GitHub
-4. Submit the repo link via Slack or Google Form
+Here's the updated **"Practice Resources"** section for your **Day-36 Agenda README**, with **hand-picked Edabit exercises** that align perfectly with Trees, Binary Trees, and TreeMap concepts.
+
+---
+
+### 📚 Practice Resources – Edabit
+
+Practice your understanding of today's concepts with real Java problems:
+
+#### 🌳 Binary Trees
+
+* ✅ [Height of a Binary Tree](https://edabit.com/challenge/9pD3KKZqFaCqP4FwD)
+  *Practice recursive traversal and calculating tree depth.*
+
+* ✅ [Binary Tree Search](https://edabit.com/challenge/SzKXvsJ9EK82fp4HA)
+  *Search for a value in a Binary Search Tree.*
+
+* ✅ [Count the Nodes in a Binary Tree](https://edabit.com/challenge/CKqsyasYAvk4ZtPxf)
+  *Great for getting used to recursive thinking.*
+
+---
+
+#### 🗂️ TreeMap / Map-like Practice
+
+* ✅ [Sort an Array of Strings Alphabetically](https://edabit.com/challenge/wAdE9gX4bD7zmpbkE)
+  *Although not TreeMap-based, this helps reinforce key-ordering logic.*
+
+* ✅ [Frequency of Elements in an Array](https://edabit.com/challenge/Duv3dF5Lrmk5fdy6M)
+  *Mimic `TreeMap<String, Integer>` style logic by counting elements with sorting.*
+
+---
+
+📌 **Tip**: Try solving these on Edabit, and then recreate similar logic in your own Java files using the techniques learned in class.
 
 ---
 
