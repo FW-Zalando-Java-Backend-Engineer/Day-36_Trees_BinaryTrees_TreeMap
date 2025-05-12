@@ -158,6 +158,6 @@ assertEquals(List.of("Alpha", "Gamma", "Zeta"), tree.listInOrder());
 ## 📼 Zoom Recording
 
 🎥 Watch the session here:
-🔗 [Day-36 Zoom Recording](_Will be added later_)
+🔗 [Day-36 Zoom Recording](https://us06web.zoom.us/rec/share/wjr4Vnob1oJerTfpKNVyIdSPrCZaJ0iCBMby-F9bxL4K5g9XtJK8tin-TFP8hnMg.SG85hMxNoJ0wUiiw?startTime=1746774945000)
 
 ---
